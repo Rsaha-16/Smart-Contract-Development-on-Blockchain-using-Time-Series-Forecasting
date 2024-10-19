@@ -1,0 +1,2 @@
+Epoch,Train_Loss,Window
+0,0.48650383949279785,1
